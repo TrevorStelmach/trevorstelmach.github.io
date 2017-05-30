@@ -1,0 +1,24 @@
+body {
+  padding-top: 70px;
+}
+
+li{
+  color: orange;
+}
+
+#aboveContact {
+  border-top: 1px solid #8c8b8b;
+}
+
+#underContact {
+  border-top: 3px double #8c8b8b;
+}
+
+.fresh{
+  background-color: #4ABDAC;
+  
+}
+
+#foot{
+  padding-top: 10px;
+}
